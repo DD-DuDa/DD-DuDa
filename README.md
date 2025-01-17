@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DD-DuDa
 - 👀 I’m interested in HPC and Efficient Deep Learning. 
-- 🌱 I’m currently a MPhil in HKUST(GZ).
+- 🌱 I’m currently a PHD in the University of Edinburgh.
 - 📫 How to reach me: duda200054@gmail.com
 
 <!---
